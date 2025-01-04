@@ -33,7 +33,7 @@ function playInTelegram() {
     property="og:description"
     content="LotosCasino – лицензионное онлайн-казино с богатым выбором игр и бонусов. Играйте на сайте или через Telegram."
   />
-  <meta property="og:image" content="https://example.com/lotoscasino-preview.jpg" />
+  <meta property="og:image" content="https://lotosgames.ru/color_logo-2.ico" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://lotosgames.ru/" />
 
@@ -43,7 +43,7 @@ function playInTelegram() {
     name="twitter:description"
     content="Официальный сайт LotosCasino. Игры, бонусы, быстрые выплаты."
   />
-  <meta name="twitter:image" content="https://example.com/lotoscasino-preview.jpg" />
+  <meta name="twitter:image" content="https://lotosgames.ru/color_logo-2.ico" />
 </svelte:head>
   
   <main class="w-full min-h-screen bg-gray-50 flex flex-col" style="background: #120a29">
